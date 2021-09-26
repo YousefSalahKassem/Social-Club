@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "305542769909",
+    "project_id": "socialclub-260ad",
+    "storage_bucket": "socialclub-260ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305542769909:android:b09a0745c13895e8c169bc",
+        "android_client_info": {
+          "package_name": "com.socialclub.www.socialclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305542769909-ldiakbs8c26uveq275b0tjgltl1ojvee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialclub.www.socialclub",
+            "certificate_hash": "b5550e66f543334e5ff0e8603ec1ee144a6dc9af"
+          }
+        },
+        {
+          "client_id": "305542769909-5l10v285pqstuehq985coigpctfee9a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkd0BH3qd64baoQ4L48nN91LWYcRS4g7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305542769909-357tk4c6tjikfqpouufbqags0mu0cldh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305542769909-qg6g0u6af8tl7lhibe6599as2nctteti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.socialclub.www.socialclub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
