@@ -1,16 +1,33 @@
-# socialclub
+# Social-Club
+Its Social Media Application with beautiful UI and  created using Flutter
 
-A new Flutter project.
+# Features
+Sign-In, Sign-Up and LogOut using Email & Password .
 
-## Getting Started
+Google Account.
 
-This project is a starting point for a Flutter application.
+Facebook Account.
 
-A few resources to get you started if this is your first Flutter project:
+Upload posts and check for likes, comments and awards.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Upload stories and save it to your album and check Viewrs.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Creating Group Chat with password and admin for group.
+
+Edit your account information and upload image at Profile section.
+
+Direct Chat Between 2 devices as private chat.
+
+Adding new Stickers.
+
+Search for users and see their profile, posts and stories.
+
+Notifications.
+
+Using Responsive UI.
+
+Using Firebase & SQLite.
+
+Using Provider as state management.
+
+Clean code.
