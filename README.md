@@ -1,12 +1,10 @@
 # Social-Club
-Its Social Media Application with beautiful UI and  created using Flutter
+Its Social Media Application with beautiful UI and  created using Flutter.
 
 # Features
 Sign-In, Sign-Up and LogOut using Email & Password .
 
 Google Account.
-
-Facebook Account.
 
 Upload posts and check for likes, comments and awards.
 
@@ -31,3 +29,8 @@ Using Firebase & SQLite.
 Using Provider as state management.
 
 Clean code.
+
+# updates
+i will anounce when finish the final version but still working on app and some features.
+
+this features in the last version untill now.
